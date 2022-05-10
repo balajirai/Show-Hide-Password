@@ -1,4 +1,4 @@
-# Show-hide-password
+# Show Hide Password
 Frontend of a web page that allow users to see their entered password in order to make them sure that they have entered the right one.
 
 ---
