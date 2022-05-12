@@ -3,6 +3,11 @@ Frontend of a web page that allow users to see their entered password in order t
 
 ---
 
+<p align="center">
+<img src="images/overview.png">
+</p>
+
+---
 ## Features
 - By default the password will be hidden
 - Provided with a dedicated clickable ```Eye Button``` for showing or hiding the password
